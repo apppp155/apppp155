@@ -1,1 +1,1 @@
-![](https://warm-brook-75773.herokuapp.com/index.php<?= uniqid()?>)
+![gif](https://warm-brook-75773.herokuapp.com/index.php?<?= uniqid()?>)
